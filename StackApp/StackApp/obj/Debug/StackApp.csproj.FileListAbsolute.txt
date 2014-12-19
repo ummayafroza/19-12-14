@@ -1,0 +1,6 @@
+E:\19-12-14\StackApp\StackApp\bin\Debug\StackApp.exe.config
+E:\19-12-14\StackApp\StackApp\bin\Debug\StackApp.exe
+E:\19-12-14\StackApp\StackApp\bin\Debug\StackApp.pdb
+E:\19-12-14\StackApp\StackApp\obj\Debug\StackApp.csprojResolveAssemblyReference.cache
+E:\19-12-14\StackApp\StackApp\obj\Debug\StackApp.exe
+E:\19-12-14\StackApp\StackApp\obj\Debug\StackApp.pdb

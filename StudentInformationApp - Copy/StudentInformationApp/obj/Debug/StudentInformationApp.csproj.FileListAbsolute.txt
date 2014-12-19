@@ -1,0 +1,17 @@
+E:\19-12-14\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.StudentUIForm.resources
+E:\19-12-14\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Properties.Resources.resources
+E:\19-12-14\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csproj.GenerateResource.Cache
+E:\19-12-14\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+E:\19-12-14\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe
+E:\19-12-14\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.pdb
+E:\19-12-14\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+E:\19-12-14\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.pdb
+E:\19-12-14\StudentInformationApp - Copy\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+E:\19-12-14\StudentInformationApp - Copy\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+E:\19-12-14\StudentInformationApp - Copy\StudentInformationApp\obj\Debug\StudentInformationApp.pdb
+E:\19-12-14\StudentInformationApp - Copy\StudentInformationApp\bin\Debug\StudentInformationApp.exe
+E:\19-12-14\StudentInformationApp - Copy\StudentInformationApp\bin\Debug\StudentInformationApp.pdb
+E:\19-12-14\StudentInformationApp - Copy\StudentInformationApp\obj\Debug\StudentInformationApp.csprojResolveAssemblyReference.cache
+E:\19-12-14\StudentInformationApp - Copy\StudentInformationApp\obj\Debug\StudentInformationApp.StudentUIForm.resources
+E:\19-12-14\StudentInformationApp - Copy\StudentInformationApp\obj\Debug\StudentInformationApp.Properties.Resources.resources
+E:\19-12-14\StudentInformationApp - Copy\StudentInformationApp\obj\Debug\StudentInformationApp.csproj.GenerateResource.Cache

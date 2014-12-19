@@ -1,0 +1,9 @@
+E:\19-12-14\CustomerQueueApp\CustomerQueueApp\bin\Debug\CustomerQueueApp.exe.config
+E:\19-12-14\CustomerQueueApp\CustomerQueueApp\bin\Debug\CustomerQueueApp.exe
+E:\19-12-14\CustomerQueueApp\CustomerQueueApp\bin\Debug\CustomerQueueApp.pdb
+E:\19-12-14\CustomerQueueApp\CustomerQueueApp\obj\Debug\CustomerQueueApp.CustomerQueueForm.resources
+E:\19-12-14\CustomerQueueApp\CustomerQueueApp\obj\Debug\CustomerQueueApp.Properties.Resources.resources
+E:\19-12-14\CustomerQueueApp\CustomerQueueApp\obj\Debug\CustomerQueueApp.csproj.GenerateResource.Cache
+E:\19-12-14\CustomerQueueApp\CustomerQueueApp\obj\Debug\CustomerQueueApp.exe
+E:\19-12-14\CustomerQueueApp\CustomerQueueApp\obj\Debug\CustomerQueueApp.pdb
+E:\19-12-14\CustomerQueueApp\CustomerQueueApp\obj\Debug\CustomerQueueApp.csprojResolveAssemblyReference.cache
